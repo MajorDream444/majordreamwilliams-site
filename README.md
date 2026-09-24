@@ -8,6 +8,6 @@ Import `MajorDream444/majordreamwilliams-site` into Vercel with the Other framew
 
 ## Publish content
 
-Edit `index.html` for the public biography, speaking offer and selected work. Edit `vault/index.html` to publish approved books, essays, talks and theories. Do not put private research or third-party PDFs in this public repo. Booking currently opens an email to `major@hanzo.ai`. Replace the publication-link request with Major's confirmed Substack URL. Add approved headshots and event media once supplied.
+Edit `index.html` for the public biography, speaking offer and selected work. Edit `vault/index.html` to publish approved books, essays, talks and theories. Do not put private research or third-party PDFs in this public repo. Booking currently opens an email to `contact@majordreamwilliams.com`. Replace the publication-link request with Major's confirmed Substack URL. Add approved headshots and event media once supplied.
 
 Run `python3 -m http.server 8000` locally and inspect `/` and `/vault/` at desktop and mobile widths before publishing.
